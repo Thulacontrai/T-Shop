@@ -14,8 +14,19 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('alooooooo');
 });
 Route::get('/alo', function () {
+    return "ủa ";
+});
+Route::get('/alo', function () {
+    return "Alo";
+});
+Route::get('/alo', function () {
+    return "Alo";
+});
+Route::get('/alo', function () {
+    return "Alo";
+});Route::get('/alo', function () {
     return "Alo";
 });
