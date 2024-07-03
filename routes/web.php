@@ -19,3 +19,14 @@ Route::get('/', function () {
 Route::get('/alo', function () {
     return "Alo";
 });
+Route::get('/alo', function () {
+    return "Alo";
+});
+Route::get('/alo', function () {
+    return "Alo";
+});
+Route::get('/alo', function () {
+    return "Alo";
+});Route::get('/alo', function () {
+    return "Alo";
+});
